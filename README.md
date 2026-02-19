@@ -15,7 +15,7 @@ RamDownloader is a cutting-edge console application that allows users to downloa
 ## 🛠 Built With
 
 - C#
-- .NET 8
+- .NET 10
 - Console Application Architecture
 
 ## 📦 Installation
